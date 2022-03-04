@@ -1,5 +1,6 @@
 {
     "routes": {
-      "/*.html": "index.html"
+      "/*.html": "index.html",
+      "/route/**": "bar/baz.html"
     }
   }
